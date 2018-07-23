@@ -30,8 +30,3 @@ function displayError(error) {
     const message =  "<p>I'm sorry, there's been an error. Please try again.<p>";
     document.getElementById('errors').innerHTML = message;
 }
-
-
-
-
-
